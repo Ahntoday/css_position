@@ -10,7 +10,7 @@
 
   /* TODO */
   /* 포지션 구현하기 */
-  position: relative;
+  position: absolute;
   top: 100px;
   left: 100px;
 }
